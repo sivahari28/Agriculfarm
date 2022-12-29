@@ -3,7 +3,10 @@ Website Link [Agriculfarm](https://delightful-pond-09e31bf10.2.azurestaticapps.n
 
 As the famous quote describe **Health is Wealth**, I have done the project which is used to maintain good health by people. My website titled **Agriculfarm** is use to contact farmers directly to buy vegitables and fruits where they were grown in organic manner whith out using pestsides. By this people can find helthy raw food materils directly from farmers and can live their life healthy.To develope the website I have used the Visual Studio Code IDE. The technologies used in this website is HTML, CSS, JavaScript. I have used Azure Static Webapps to deploy my project and used GIT as Version Control System.
 
+Chatbot in the website help people and farmers to find solutions for their queries regarding farming, etc.
+
 ### Deployement Procedure:
+##First one:
 I have deployed my project in Static web apps as follow <br />
   1)Navigate to the [Azure portal](https://portal.azure.com/). <br />
   2)Select Create a Resource.<br />
@@ -25,6 +28,10 @@ I have deployed my project in Static web apps as follow <br />
   7) click review+create<br />
   8) click create
   <br />
+  
+ ##Second one:
+ i) Azure Bot and 
+ ii) Language Studio > Custom question answering > AgricalFarmChatbot
   
   ### Home Page:
   ![image](https://user-images.githubusercontent.com/115481580/208245131-ff909f29-02a3-4efa-9acd-75b82eb59314.png)
