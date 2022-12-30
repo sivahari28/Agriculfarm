@@ -110,6 +110,12 @@ body {
   .chat_box.active{
     transform: scaleY(1);
   }
+  @media (max-width:560px) {
+    .chat_box {
+        font-size: 3rem;
+        width: max-content;
+    }
+}
 
 hr {
     margin: 1rem 0;
