@@ -6,7 +6,7 @@ As the famous quote describe **Health is Wealth**, I have done the project which
 Chatbot in the website help people and farmers to find solutions for their queries regarding farming, etc.
 
 ### Deployement Procedure:
-#### First one:
+#### First one: Static webapps
 I have deployed my project in Static web apps as follow <br />
   1)Navigate to the [Azure portal](https://portal.azure.com/). <br />
   2)Select Create a Resource.<br />
@@ -31,11 +31,12 @@ I have deployed my project in Static web apps as follow <br />
   ##### Azure Screenshot:
   ![static webapps](https://user-images.githubusercontent.com/115481580/210054238-5bac69b3-6896-4bae-901f-afaf2a8ce13d.png)
 
- #### Second one:
- ##### i) Azure Bot 
+ #### Second one: Bot Service
+ ##### Azure Bot 
  ![chatbot](https://user-images.githubusercontent.com/115481580/210054268-4c9621d0-18bf-46ce-8c85-9b98e479a6fd.png)
 
- ##### ii) Language Studio > Custom question answering > AgricalFarmChatbot
+ ### Third one: Azure Cognitive services [Language studio]
+  Language Studio > Custom question answering > AgricalFarmChatbot
  ![Cognitive services](https://user-images.githubusercontent.com/115481580/210054607-3e7d5b22-9f75-418d-8ecb-425d654c3a27.png)
 
  ![chatbot language](https://user-images.githubusercontent.com/115481580/210054299-7589af88-1d73-4ad9-ba3d-b001ef28a28a.png)
