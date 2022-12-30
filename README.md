@@ -28,10 +28,18 @@ I have deployed my project in Static web apps as follow <br />
   7) click review+create<br />
   8) click create
   <br />
-  
+  ##### Azure Screenshot:
+  ![static webapps](https://user-images.githubusercontent.com/115481580/210054238-5bac69b3-6896-4bae-901f-afaf2a8ce13d.png)
+
  #### Second one:
- i) Azure Bot and 
- ii) Language Studio > Custom question answering > AgricalFarmChatbot
+ ##### i) Azure Bot 
+ ![chatbot](https://user-images.githubusercontent.com/115481580/210054268-4c9621d0-18bf-46ce-8c85-9b98e479a6fd.png)
+
+ ##### ii) Language Studio > Custom question answering > AgricalFarmChatbot
+ ![Cognitive services](https://user-images.githubusercontent.com/115481580/210054607-3e7d5b22-9f75-418d-8ecb-425d654c3a27.png)
+
+ ![chatbot language](https://user-images.githubusercontent.com/115481580/210054299-7589af88-1d73-4ad9-ba3d-b001ef28a28a.png)
+
   
   ### Home Page:
   ![image](https://user-images.githubusercontent.com/115481580/208245131-ff909f29-02a3-4efa-9acd-75b82eb59314.png)
